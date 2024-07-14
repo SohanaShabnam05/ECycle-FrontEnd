@@ -75,7 +75,7 @@ const Footer = () => {
             <Link href="/">
               <Image
                 src={logo}
-                alt="Elocate"
+                alt="ECycle"
                 width={100}
                 height={100}
                 className="logo mx-auto md:mx-0"
@@ -208,7 +208,7 @@ const Footer = () => {
               <Link
                 target="_blank"
                 rel="noopener noreferrer"
-                href="mailto:contact@elocate.com"
+                href="mailto:contact@ecycle.com"
                 className="contact-link"
               >
                 contact@ecycle.com{" "}

@@ -90,7 +90,7 @@ const user = getUser();
         <Link href="/">
           <Image
             src={logo}
-            alt="ELocate"
+            alt="ECycle"
             width={150}
             height={150}
             className="logo ml-4 logo md:ml-16 "
@@ -100,7 +100,7 @@ const user = getUser();
         <nav className={`navbar ${isNavbarActive ? "active" : ""}`} data-navbar>
           <div className="wrapper">
             <Link href="/" className="logo">
-              ELocate
+              ECycle
             </Link>
             <button
               className="nav-close-btn"

@@ -8,7 +8,7 @@ const About = () => {
     <section className="section features" id="features" aria-label="features">
       <div className="container mx-auto px-4 text-center">
         <p className="section-subtitle font-bold text-gray-700 mb-2">
-        -About ELocate-
+        -About ECycle-
         </p>
 
         <h2 className=" text-4xl section-title font-bold text-black mb-4">
@@ -23,7 +23,7 @@ const About = () => {
                 alarming annual collection of 1.71 million metric tons. Locating
                 trustworthy e-waste collection facilities remains a significant
                 challenge, intensifying this environmental issue. <br />
-                The ELocate Web Platform is conceived to directly address this
+                The ECycle Web Platform is conceived to directly address this
                 issue. Our platform offers a dynamic, user-friendly interface for
                 individuals and businesses seeking reliable e-waste collection
                 facilities.

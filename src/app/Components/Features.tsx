@@ -1,7 +1,7 @@
 import React from "react";
 import AboutUs from "../about/About";
 
-const elocateFeatures = [
+const ecycleFeatures = [
   {
     number: "01",
     title: "Comprehensive E-Waste Collection",
@@ -47,7 +47,7 @@ const Features: React.FC = () => {
         <div className="container mx-auto px-4 pb-4 text-center">
           <AboutUs />
           <ul className="grid-list section py-20 my-2">
-            {elocateFeatures.map((feature, index) => (
+            {ecycleFeatures.map((feature, index) => (
               <li key={index}>
                 <div className="features-card">
                   <data className="card-number" value={feature.number}>

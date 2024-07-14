@@ -67,7 +67,7 @@ const ContactUs = () => {
 
   return (
     <><Head>
-     <title>ELocate- ContactUs</title> </Head><div className="px-4 w-full py-16 lg:py-24 md:pb-32 md:container">
+     <title>ECycle- ContactUs</title> </Head><div className="px-4 w-full py-16 lg:py-24 md:pb-32 md:container">
       <ToastContainer
         className="text-2xl"
         position="top-right"
@@ -202,10 +202,10 @@ const ContactUs = () => {
                 <Link
                   target="_blank"
                   rel="noopener noreferrer"
-                  href="mailto:contact@elocate.com"
+                  href="mailto:contact@ecycle.com"
                   className="contact-link"
                 >
-                  contact@elocate.com
+                  contact@ecycle.com
                 </Link>
               </li>
               <li className="footer-item">

@@ -1,48 +1,36 @@
+# ECycle ♻️
 
-# ELocate ♻️
 E waste Facility Locator & Recycling Platform ♻️
 
 A i-nnovate Hackathon by intelliswift Finalist Project **Team Spam Byte From Deogiri Institute of Engineering And Management Studies Chh. Sambhajinagar.**
 
 **Update** : Won The Position of **Second Runner** Up & 30 K price in hackathon at [**i-nnovate Hackathon 2023**](https://www.intelliswift.com/innovate-hackathon) By [Intelliswift Software Pvt. Ltd](https://www.intelliswift.com/) at **Symbiosis International University**
 
-Click on link below to have intro to ELocate :
+Click on link below to have intro to ECycle:
 
-[Intro To Elocate Video in Short But In Detail](https://youtu.be/rEyCnsLWbJU)
-
+[Intro To ECycle Video in Short But In Detail](https://youtu.be/rEyCnsLWbJU)
 
 ## Live Preview
 
 Here you can view the deployed version
-[ELocate ♻️](https://elocateinnovate.vercel.app)
+[ECycle ♻️]()
 
 ![image](https://github.com/shuence/ELocate/assets/65482186/02809587-82e8-4633-a53e-74e7f74654b4)
 ![image](https://github.com/shuence/ELocate/assets/65482186/a4fae975-b9c3-4753-b1d8-ebb0fef7b64f)
 ![image](https://github.com/shuence/ELocate/assets/65482186/930b1433-3d1b-4a32-a3c5-5f7f75ebbabc)
 ![image](https://github.com/shuence/ELocate/assets/65482186/b48752ab-dc1e-48ea-9f83-5a7d47d50ccf)
 
-## Videos 
+## Videos
 
 Click on link below to have demo of our prototype :
-[Prototype Video](https://youtu.be/3IN58Qo_FvA)
-
-## Setup
-
-To Setup this project run
-
-```bash
-git clone https://github.com/shuence/ELocate
-cd ELocate
-yarn
-yarn dev
-```
+[Prototype Video]()
 
 ## Resources
 
 - [NextJs Docs](https://nextjs.org/docs)
 - [Tailwind Css](https://tailwindcss.com/docs/)
 
-## ELocate Features
+## ECycle Features
 
 - **Facility Listing:** Display a comprehensive list of e-waste recycling facilities for users to explore.
 - **Verified Facilities:** Highlight and showcase verified facilities on the platform, ensuring reliability.
@@ -58,9 +46,10 @@ yarn dev
 - **Analytics:** Integrate analytics tools to gather insights into user interactions and improve the platform.
 - **Alerts:** Implement appropriate alerts for errors and successful actions, enhancing the overall user experience.
 - **Rules and Regulations:** Display information on government rules and regulations regarding e-waste management and the latest notifications in the field.
+
 ## What We learned
 
-While building this project, We embarked on our  full-stack journey, The journey was both exciting and challenging, and We learned a lot along the way:
+While building this project, We embarked on our full-stack journey, The journey was both exciting and challenging, and We learned a lot along the way:
 
 1. **Frontend Gracefulness:** As We crafted the frontend, We encountered various errors, but I embraced each challenge as an opportunity to learn. With useState and other hooks, along with Tailwind Css for styling, we built an intuitive and responsive user interface.
 
@@ -77,7 +66,8 @@ While building this project, We embarked on our  full-stack journey, The journey
 7. **Version Control and Rollbacks:** We grasped the importance of version control not only for the codebase but also for server configurations, facilitating easy rollbacks if needed.
 
 Overall, this project marked a significant milestone in Our journey in this i-nnovate Hackathon
-by intelliswift. 
+by intelliswift.
+
 ## Tech Stack
 
 **Client:** NextJs, TailwindCss, React Icons, MapBox
@@ -85,7 +75,6 @@ by intelliswift.
 **Server:** Node.js, ExpressJs
 
 **Database:** MongoDB
-
 
 ## Roadmap
 
@@ -96,8 +85,8 @@ by intelliswift.
 - Implement a user dashboard for managing and tracking bookings.
 - Implement facility dashboard for managing and updating facility info and manage bookings and other data.
 - Implement Admin dashboard for managing and updating facilities, verification, generating various reports and other data.
-# Hi, We are Spam Byte! 👋
 
+# Hi, We are Spam Byte! 👋
 
 ## 🚀 About us
 
