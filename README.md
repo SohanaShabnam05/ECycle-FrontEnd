@@ -1,19 +1,30 @@
 # ECycle ♻️
 
+<<<<<<< HEAD
+=======
+# ECycle ♻️
+>>>>>>> dd0ff161fc79a9cb18b8b62144469dc9b07a6b3d
 E waste Facility Locator & Recycling Platform ♻️
 
-A i-nnovate Hackathon by intelliswift Finalist Project **Team Spam Byte From Deogiri Institute of Engineering And Management Studies Chh. Sambhajinagar.**
 
-**Update** : Won The Position of **Second Runner** Up & 30 K price in hackathon at [**i-nnovate Hackathon 2023**](https://www.intelliswift.com/innovate-hackathon) By [Intelliswift Software Pvt. Ltd](https://www.intelliswift.com/) at **Symbiosis International University**
-
+<<<<<<< HEAD
 Click on link below to have intro to ECycle:
+=======
+Click on link below to have intro to ELocate :
+
+[Intro To Elocate Video in Short But In Detail]()
+>>>>>>> dd0ff161fc79a9cb18b8b62144469dc9b07a6b3d
 
 [Intro To ECycle Video in Short But In Detail](https://youtu.be/rEyCnsLWbJU)
 
 ## Live Preview
 
 Here you can view the deployed version
+<<<<<<< HEAD
 [ECycle ♻️]()
+=======
+[Ecycle ♻️](https://e-cycle-front-end.vercel.app/)
+>>>>>>> dd0ff161fc79a9cb18b8b62144469dc9b07a6b3d
 
 ![image](https://github.com/shuence/ELocate/assets/65482186/02809587-82e8-4633-a53e-74e7f74654b4)
 ![image](https://github.com/shuence/ELocate/assets/65482186/a4fae975-b9c3-4753-b1d8-ebb0fef7b64f)
@@ -24,6 +35,20 @@ Here you can view the deployed version
 
 Click on link below to have demo of our prototype :
 [Prototype Video]()
+<<<<<<< HEAD
+=======
+
+## Setup
+
+To Setup this project run
+
+```bash
+git clone https://github.com/shuence/ELocate
+cd ELocate
+yarn
+yarn dev
+```
+>>>>>>> dd0ff161fc79a9cb18b8b62144469dc9b07a6b3d
 
 ## Resources
 
@@ -90,14 +115,8 @@ by intelliswift.
 
 ## 🚀 About us
 
-We are a team from Deogiri Institute of Engineering And Management Studies Chh. Sambhajinagar.
-
-- Krishna Dnyaneshwar Aute - [Krishna]()
-- Shubham Vishnu Pitekar - [Shuence](https://github.com/shuence)
-- Dayeeta Chakravorty - [Dayeeta]()
-- Samruddhi Shirish Giri - [Samruddhi]()
-- Siddhi Sudhakar Tribhuwan - [Siddhi]()
+We are a team from Heritage Institute of Technology, Kolkata
 
 ## Happy coding 💯
 
-Made with love from [Spam Byte](https://shuence.netlify.app) ❤️
+Made with love from [PROCODERS](https://e-cycle-front-end.vercel.app/) ❤️
