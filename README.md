@@ -98,14 +98,8 @@ by intelliswift.
 
 ## 🚀 About us
 
-We are a team from Deogiri Institute of Engineering And Management Studies Chh. Sambhajinagar.
-
-- Krishna Dnyaneshwar Aute - [Krishna]()
-- Shubham Vishnu Pitekar - [Shuence](https://github.com/shuence)
-- Dayeeta Chakravorty - [Dayeeta]()
-- Samruddhi Shirish Giri - [Samruddhi]()
-- Siddhi Sudhakar Tribhuwan - [Siddhi]()
+We are a team from Heritage Institute of Technology, Kolkata
 
 ## Happy coding 💯
 
-Made with love from [Spam Byte](https://e-cycle-front-end.vercel.app/) ❤️
+Made with love from [PROCODERS](https://e-cycle-front-end.vercel.app/) ❤️
