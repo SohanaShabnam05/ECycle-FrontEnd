@@ -183,7 +183,7 @@ const ContactUs = () => {
               <li className="footer-item">
                 <IonIcon icon={location} aria-hidden="true"></IonIcon>
                 <address className="contact-link address">
-                  Chh. Sambhajinagar (Aurangabad), Maharashtra, 431001
+                  Kolkata
                 </address>
               </li>
               <li className="footer-item">
@@ -191,10 +191,10 @@ const ContactUs = () => {
                 <Link
                   target="_blank"
                   rel="noopener noreferrer"
-                  href="tel:+911234567890"
+                  href="tel:+918250326465"
                   className="contact-link"
                 >
-                  +911234567890
+                  +918250326465
                 </Link>
               </li>
               <li className="footer-item">
