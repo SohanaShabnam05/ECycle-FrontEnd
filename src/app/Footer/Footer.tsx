@@ -82,7 +82,7 @@ const Footer = () => {
               />
             </Link>
             <p className="footer-text">
-            ELocate: Transforming E-Waste Management. Find E-waste facilities effortlessly with our platform. Your key to responsible recycling and sustainability.
+            ECycle: Transforming E-Waste Management. Find E-waste facilities effortlessly with our platform. Your key to responsible recycling and sustainability.
             </p>
             <form onSubmit={SendMsg} className="newsletter-form mb-0 md:mb-4">
               <input
@@ -189,7 +189,7 @@ const Footer = () => {
             <li className="footer-item">
               <IonIcon icon={location} aria-hidden="true" className="w-8 h-8 mt-4"></IonIcon>
               <address className="contact-link address">
-                Chh.Sambhajinagar,<br />Maharashtra,  431001
+                Kolkata,<br />West Bengal, 700107
               </address>
             </li>
             <li className="footer-item">
@@ -197,10 +197,10 @@ const Footer = () => {
               <Link
                 target="_blank"
                 rel="noopener noreferrer"
-                href="tel:+911234567890"
+                href="tel:+918250326465"
                 className="contact-link"
               >
-                +911234567890
+                +918250326465
               </Link>
             </li>
             <li className="footer-item">
@@ -211,7 +211,7 @@ const Footer = () => {
                 href="mailto:contact@elocate.com"
                 className="contact-link"
               >
-                contact@elocate.com{" "}
+                contact@ecycle.com{" "}
               </Link>
             </li>
             <li className="footer-item">
@@ -268,9 +268,9 @@ const Footer = () => {
       <div className="footer-bottom">
         <div className="container">
         <p className="copyright">
-            &copy; 2023 ELocate | All Rights Reserved by{" "}
+            &copy; 2024 Myntra-Hackathon Ecycle | All Rights Reserved by{" "}
             <Link href="#" className="copyright-link">
-              Spam Byte
+              PROCODERS
             </Link>
           </p>
           <ul className="footer-bottom-list">
