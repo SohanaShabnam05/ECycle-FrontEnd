@@ -1,20 +1,17 @@
 
-# ELocate ♻️
+# ECycle ♻️
 E waste Facility Locator & Recycling Platform ♻️
 
-A i-nnovate Hackathon by intelliswift Finalist Project **Team Spam Byte From Deogiri Institute of Engineering And Management Studies Chh. Sambhajinagar.**
-
-**Update** : Won The Position of **Second Runner** Up & 30 K price in hackathon at [**i-nnovate Hackathon 2023**](https://www.intelliswift.com/innovate-hackathon) By [Intelliswift Software Pvt. Ltd](https://www.intelliswift.com/) at **Symbiosis International University**
 
 Click on link below to have intro to ELocate :
 
-[Intro To Elocate Video in Short But In Detail](https://youtu.be/rEyCnsLWbJU)
+[Intro To Elocate Video in Short But In Detail]()
 
 
 ## Live Preview
 
 Here you can view the deployed version
-[ELocate ♻️](https://elocateinnovate.vercel.app)
+[Ecycle ♻️](https://e-cycle-front-end.vercel.app/)
 
 ![image](https://github.com/shuence/ELocate/assets/65482186/02809587-82e8-4633-a53e-74e7f74654b4)
 ![image](https://github.com/shuence/ELocate/assets/65482186/a4fae975-b9c3-4753-b1d8-ebb0fef7b64f)
@@ -24,7 +21,7 @@ Here you can view the deployed version
 ## Videos 
 
 Click on link below to have demo of our prototype :
-[Prototype Video](https://youtu.be/3IN58Qo_FvA)
+[Prototype Video]()
 
 ## Setup
 
@@ -111,4 +108,4 @@ We are a team from Deogiri Institute of Engineering And Management Studies Chh. 
 
 ## Happy coding 💯
 
-Made with love from [Spam Byte](https://shuence.netlify.app) ❤️
+Made with love from [Spam Byte](https://e-cycle-front-end.vercel.app/) ❤️
