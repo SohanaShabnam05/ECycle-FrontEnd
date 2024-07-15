@@ -1,11 +1,11 @@
 # ECycle ♻️
 
-<<<<<<< HEAD
-=======
-# ECycle ♻️
->>>>>>> dd0ff161fc79a9cb18b8b62144469dc9b07a6b3d
-E waste Facility Locator & Recycling Platform ♻️
+# <<<<<<< HEAD
 
+# ECycle ♻️
+
+> > > > > > > dd0ff161fc79a9cb18b8b62144469dc9b07a6b3d
+> > > > > > > E waste Facility Locator & Recycling Platform ♻️
 
 <<<<<<< HEAD
 Click on link below to have intro to ECycle:
@@ -13,7 +13,8 @@ Click on link below to have intro to ECycle:
 Click on link below to have intro to ELocate :
 
 [Intro To Elocate Video in Short But In Detail]()
->>>>>>> dd0ff161fc79a9cb18b8b62144469dc9b07a6b3d
+
+> > > > > > > dd0ff161fc79a9cb18b8b62144469dc9b07a6b3d
 
 [Intro To ECycle Video in Short But In Detail](https://youtu.be/rEyCnsLWbJU)
 
@@ -24,7 +25,8 @@ Here you can view the deployed version
 [ECycle ♻️]()
 =======
 [Ecycle ♻️](https://e-cycle-front-end.vercel.app/)
->>>>>>> dd0ff161fc79a9cb18b8b62144469dc9b07a6b3d
+
+> > > > > > > dd0ff161fc79a9cb18b8b62144469dc9b07a6b3d
 
 ![image](https://github.com/shuence/ELocate/assets/65482186/02809587-82e8-4633-a53e-74e7f74654b4)
 ![image](https://github.com/shuence/ELocate/assets/65482186/a4fae975-b9c3-4753-b1d8-ebb0fef7b64f)
@@ -48,7 +50,8 @@ cd ELocate
 yarn
 yarn dev
 ```
->>>>>>> dd0ff161fc79a9cb18b8b62144469dc9b07a6b3d
+
+> > > > > > > dd0ff161fc79a9cb18b8b62144469dc9b07a6b3d
 
 ## Resources
 
@@ -110,8 +113,6 @@ by intelliswift.
 - Implement a user dashboard for managing and tracking bookings.
 - Implement facility dashboard for managing and updating facility info and manage bookings and other data.
 - Implement Admin dashboard for managing and updating facilities, verification, generating various reports and other data.
-
-# Hi, We are Spam Byte! 👋
 
 ## 🚀 About us
 
