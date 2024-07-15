@@ -94,9 +94,9 @@ export const facility = [
     capacity: 200,
     lon: 73.9248595,
     lat: 18.5015732,
-    contact:"0",
+    contact: "0",
     time: "10:00 AM - 7:00 PM",
     verified: true,
-    address:"Plot No 77&78, Subplot No 3A, next to Rohini Signs, Ramtekdi Industrial Area, Hadapsar, Pune, Maharashtra 411013"
+    address: "Plot No 77&78, Subplot No 3A, next to Rohini Signs, Ramtekdi Industrial Area, Hadapsar, Pune, Maharashtra 411013"
   }
 ];
