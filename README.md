@@ -1,57 +1,5 @@
-# ECycle ♻️
-
-# <<<<<<< HEAD
-
-# ECycle ♻️
-
-> > > > > > > dd0ff161fc79a9cb18b8b62144469dc9b07a6b3d
-> > > > > > > E waste Facility Locator & Recycling Platform ♻️
-
-<<<<<<< HEAD
-Click on link below to have intro to ECycle:
-=======
-Click on link below to have intro to ELocate :
-
-[Intro To Elocate Video in Short But In Detail]()
-
-> > > > > > > dd0ff161fc79a9cb18b8b62144469dc9b07a6b3d
-
-[Intro To ECycle Video in Short But In Detail](https://youtu.be/rEyCnsLWbJU)
-
-## Live Preview
-
-Here you can view the deployed version
-<<<<<<< HEAD
-[ECycle ♻️]()
-=======
+E waste Facility Locator & Recycling
 [Ecycle ♻️](https://e-cycle-front-end.vercel.app/)
-
-> > > > > > > dd0ff161fc79a9cb18b8b62144469dc9b07a6b3d
-
-![image](https://github.com/shuence/ELocate/assets/65482186/02809587-82e8-4633-a53e-74e7f74654b4)
-![image](https://github.com/shuence/ELocate/assets/65482186/a4fae975-b9c3-4753-b1d8-ebb0fef7b64f)
-![image](https://github.com/shuence/ELocate/assets/65482186/930b1433-3d1b-4a32-a3c5-5f7f75ebbabc)
-![image](https://github.com/shuence/ELocate/assets/65482186/b48752ab-dc1e-48ea-9f83-5a7d47d50ccf)
-
-## Videos
-
-Click on link below to have demo of our prototype :
-[Prototype Video]()
-<<<<<<< HEAD
-=======
-
-## Setup
-
-To Setup this project run
-
-```bash
-git clone https://github.com/shuence/ELocate
-cd ELocate
-yarn
-yarn dev
-```
-
-> > > > > > > dd0ff161fc79a9cb18b8b62144469dc9b07a6b3d
 
 ## Resources
 
